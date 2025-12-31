@@ -26,6 +26,7 @@ jobs:
           - 25-JDK
           - 11-EE
           - 17-EE
+          - 25-EE
     steps:
       - name: Checkout
         uses: actions/checkout@v3
